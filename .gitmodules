@@ -1,0 +1,3 @@
+[submodule "Hardware/lib/ben-kicad-library"]
+	path = Hardware/lib/ben-kicad-library
+	url = https://github.com/benjamin-owen/ben-kicad-library
