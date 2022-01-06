@@ -3,3 +3,4 @@
 	url = https://github.com/benjamin-owen/ben-kicad-library
 [submodule "Hardware.lib.ben-kicad-library"]
 	branch = main
+	main = main
